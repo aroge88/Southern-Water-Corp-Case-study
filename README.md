@@ -13,18 +13,25 @@ Ultimately, our challenge as data analysts is to tell a meaningful story that dr
 This project is divided in to four parts. First three parts in Excel and fourth is in Python. The first three parts:
 1. Revenue:
 
-     o Revenue Analysis 
-     o Expense Analysis 
+     o Revenue Analysis
+     
+     o Expense Analysis
+     
      o EBITAnalysis
+     
 2. Economics Analysis
 
 
      o Economics Market Analysis
+     
      o Economics Cost Analysis
+     
      o What-If Analysis
+     
  3. Statistics Analysis
 
     o Descriptive Statistics
+    
     o Inferential Statistics
     
  4. Statistics Analysis (Python)
