@@ -8,7 +8,7 @@ Costs between the various plants vary due to the type of desalinated water they 
 
 Southern Water Corp lives and dies by its cash. If costs are too high and revenue too low then the business is not sustainable. To this end, it is important to understand the revenue-to- expense ratio for all three of the desalination units (Kootha, Surjek, and Jutik). A low revenue- to-expenses ratio indicates that the unit is more expensive to operate, or in other words, there is a lower EBIT because of higher expenses.
 
-Ultimately, my challenge as data analysts is to tell a meaningful story that drives meaningful insights. For Southern Water Corp. I be measuring your analytical success by ensuring and can tell Southern Water Corp. a meaningful story that unpacks the EBIT, Revenues, and Operational Expenses at a macro and micro level.
+Ultimately, my challenge as data analysts is to tell a meaningful story that drives meaningful insights. For Southern Water Corp. I be measuring my analytical success by ensuring and I can tell Southern Water Corp. a meaningful story that unpacks the EBIT, Revenues, and Operational Expenses at a macro and micro level.
 
 # Project Parts:
 
