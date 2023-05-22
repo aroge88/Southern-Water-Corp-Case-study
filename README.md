@@ -3,9 +3,11 @@
 # Context:
 
 Souther Water Corp. is an Israeli water desalination company that sells fresh water for three customer segments: Residential, Public, and Private. Since the demand for agricultural and residential use is rising, Southern Water Corp. needed to maximize the availability of its three desalination plants. This has resulted in increased revenue for the calendar year. While the increase in revenue is fantastic, Southern Water Corp does not want an unsustainable rise in costs.
+
 Costs between the various plants vary due to the type of desalinated water they produce. Residential use requires only soft water, which contains no minerals. Public and Private consumers need a mix of soft water and hard water, which contains minerals like calcium. As such, the Operational Expenses between these three plants will vary according to the production potential of desalinated water and chemical costs associated with water type. With this context in mind, management wants to understand the other side of the cost equation.
-Southern Water Corp lives and dies by its cash. If costs are too high and revenue too low then the business is not sustainable. To this end, it is important to understand the revenue-to- expense ratio for all three of the desalination units (Kootha, Surjek, and Jutik). A low revenue- to-expenses ratio indicates that the unit is more expensive to operate, or in other words, there
-is a lower EBIT because of higher expenses.
+
+Southern Water Corp lives and dies by its cash. If costs are too high and revenue too low then the business is not sustainable. To this end, it is important to understand the revenue-to- expense ratio for all three of the desalination units (Kootha, Surjek, and Jutik). A low revenue- to-expenses ratio indicates that the unit is more expensive to operate, or in other words, there is a lower EBIT because of higher expenses.
+
 Ultimately, our challenge as data analysts is to tell a meaningful story that drives meaningful insights. For Southern Water Corp. you’ll be measuring your analytical success by ensuring you can tell Southern Water Corp. a meaningful story that unpacks the EBIT, Revenues, and Operational Expenses at a macro and micro level.
 
 # Project Parts:
